@@ -11,6 +11,8 @@ The original problem is to fix the error in the following sorting question:
 
 
 
+
+
 ❌ Why it Fails
 Python cannot sort a list with mixed data types like int and str directly using .sort().
 It throws a TypeError because these types are not directly comparable.
